@@ -1,4 +1,7 @@
 {
   "name": "GuiaVagas",
-  "displayName": "GuiaVagas"
+  "displayName": "GuiaVagas",
+  "expo": {
+    "sdkVersion": "27.0.0"
+  }
 }
