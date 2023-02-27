@@ -13,7 +13,7 @@
   "dependencies": {
     "expo": "^27.0.1",
     "react": "16.3.1",
-    "react-native": "~0.55.2",
+    "react-native": "~0.55.4",
     "react-native-maps": "^0.20.1",
     "react-native-navigation-directions": "^1.0.1"
   },
